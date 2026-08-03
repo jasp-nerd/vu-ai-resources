@@ -3,7 +3,7 @@
 Free study materials for the BSc Artificial Intelligence programme at VU Amsterdam.
 
 All files are publicly accessible via GitHub Pages at:
-`https://jasp-nerd.github.io/vu-ai-hub/vu-ai-resources/`
+`https://jasp-nerd.github.io/vu-ai-resources/`
 
 ## Structure
 
@@ -48,6 +48,16 @@ vu-ai-resources/
 │   └── summaries/
 ├── project-intelligent-systems/ # Project Intelligent Systems
 │   └── resources/
+├── databases/                   # Databases
+│   ├── summaries/
+│   └── exam-prep/
+├── law-of-ai/                   # The Law of Artificial Intelligence
+│   ├── summaries/
+│   └── mock-exams/
+├── text-mining-ai/              # Text Mining for AI
+│   ├── notes/
+│   ├── summaries/
+│   └── exam-prep/
 └── general/                     # General VU resources
     └── study-guides/
 ```
@@ -107,6 +117,20 @@ vu-ai-resources/
 
 ### Project Intelligent Systems
 - Schnapsen project files
+
+### Databases
+- Complete student study guide and focused resit guide
+- Official exercise exam with solutions
+- Exam-priority study plan
+
+### The Law of Artificial Intelligence
+- Student-made guides for all five 2026 lectures
+- 2026 multiple-choice mock exam
+
+### Text Mining for AI
+- Cornell-style summaries for every lecture, with cheat sheets and self-quizzes
+- Exam overview, scope carve-outs and a revision plan
+- Full self-test question bank with answers
 
 ## Disclaimer
 
