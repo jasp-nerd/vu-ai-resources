@@ -64,6 +64,14 @@ vu-ai-resources/
 
 ## Available Materials
 
+### Inaaya's lecture notes
+
+Full lecture notes for 15 courses, written by Inaaya on Notion and exported to PDF. Each course folder has them under `notes/`:
+computational-thinking, intro-psychology, intro-ai, intelligent-systems, intro-python-ai, project-intelligent-systems,
+logic-sets-ai, modelling-human-behaviour, human-computer-interaction, academic-writing, history-of-ai,
+applied-programming-ai, project-collective-intelligence, data-structures-algorithms-ai and knowledge-and-data.
+`history-of-ai/exam-prep/` also has her written answers to the 2025 exam questions.
+
 ### Introduction to AI
 - Course overview and lecture slides
 - Multiple summaries (English & Dutch)
